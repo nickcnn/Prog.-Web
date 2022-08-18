@@ -197,7 +197,7 @@ a {
     color: #45548F;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 999px) {
     .container {
         padding: 0;
     }
